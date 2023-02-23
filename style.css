@@ -1,0 +1,42 @@
+body {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    background-color: black;
+    color: red;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.erhan {
+    width: 50%;
+    height: 50%;
+}
+
+.description {
+    font-size: larger;
+    color: crimson;
+}
+
+.ingredients {
+    font-size: large;
+    color: crimson;
+}
+
+.steps {
+    font-size: large;
+    color: crimson;
+}
